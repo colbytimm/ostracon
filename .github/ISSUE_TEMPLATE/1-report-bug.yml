@@ -1,0 +1,62 @@
+name: Report Bug
+description: Something in Ostracon isn't working the way it should.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the bug, and what you expected to happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      placeholder: |
+        1. Open a story
+        2. Tap the comments button
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: App Version
+      description: Found in the app's settings.
+      placeholder: "1.0 (1)"
+    validations:
+      required: true
+  - type: input
+    id: device-model
+    attributes:
+      label: Device Model
+      placeholder: "iPhone 17 Pro"
+    validations:
+      required: true
+  - type: dropdown
+    id: device-type
+    attributes:
+      label: Device Type
+      options:
+        - iOS
+        - iPadOS
+        - macOS
+        - visionOS
+        - watchOS
+    validations:
+      required: true
+  - type: input
+    id: device-version
+    attributes:
+      label: Device Version
+      description: The OS version installed on your device.
+      placeholder: "26.1"
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or Recordings
+      description: Optional. Drag and drop images or videos here.
