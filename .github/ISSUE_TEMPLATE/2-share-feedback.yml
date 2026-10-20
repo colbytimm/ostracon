@@ -1,0 +1,29 @@
+name: Share Feedback
+description: Tell us what you like, what you don't, or anything else about Ostracon.
+title: "[Feedback]: "
+labels: ["feedback"]
+body:
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback
+      description: What's on your mind?
+    validations:
+      required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: App Version
+      description: Optional. Found in the app's settings.
+      placeholder: "1.0 (1)"
+  - type: dropdown
+    id: device-type
+    attributes:
+      label: Device Type
+      description: Optional.
+      options:
+        - iOS
+        - iPadOS
+        - macOS
+        - visionOS
+        - watchOS
