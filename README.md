@@ -1,4 +1,4 @@
-# Ostracon
+<h1><img alt="Ostracon" src="docs/images/header.png"></h1>
 
 A Hacker News client for iPhone, iPad, Mac, Apple Watch, Apple Vision Pro and Apple TV.
 
