@@ -6,23 +6,9 @@ A Hacker News client for iPhone, iPad, Mac, Apple Watch, Apple Vision Pro and Ap
 
 This repository is where Ostracon's bug reports, feedback and feature ideas are tracked. The app's source code isn't published here.
 
-<table>
-  <tr>
-    <td><img alt="The Top feed" src="docs/images/screenshots/01-first-launch.jpg" width="260"></td>
-    <td><img alt="A thread with a reply chain collapsed" src="docs/images/screenshots/02-thread.jpg" width="260"></td>
-    <td><img alt="Building a custom view" src="docs/images/screenshots/03-custom-views.jpg" width="260"></td>
-  </tr>
-  <tr>
-    <td><img alt="Picking a theme" src="docs/images/screenshots/04-themes.jpg" width="260"></td>
-    <td><img alt="Home Screen widgets" src="docs/images/screenshots/05-widgets.jpg" width="260"></td>
-    <td><img alt="Upvoting a post and writing a reply" src="docs/images/screenshots/06-vote-and-reply.jpg" width="260"></td>
-  </tr>
-  <tr>
-    <td><img alt="Bookmarks, one with a note" src="docs/images/screenshots/07-bookmarks-and-notes.jpg" width="260"></td>
-    <td><img alt="Setting up a notification for a view" src="docs/images/screenshots/08-notifications.jpg" width="260"></td>
-    <td><img alt="Advanced search filters" src="docs/images/screenshots/09-advanced-search.jpg" width="260"></td>
-  </tr>
-</table>
+<p align="center">
+  <img alt="The Top feed on iPhone" src="docs/images/screenshots/iphone/01-first-launch.jpg" width="300">
+</p>
 
 ## What it does
 
@@ -44,6 +30,62 @@ Reading, threads, search, custom views and widgets are free. Ostracon Pro is a o
 - Bookmarks, notes on posts and comments, and history
 - Following people and muting authors and sites
 - With a Hacker News account: posting, replying, voting, flagging, and editing or deleting your own posts and comments
+
+## Screenshots
+
+<details>
+<summary>iOS</summary>
+
+### iPhone
+
+<table>
+  <tr>
+    <td><img alt="The Top feed" src="docs/images/screenshots/iphone/01-first-launch.jpg" width="260"></td>
+    <td><img alt="A thread with a reply chain collapsed" src="docs/images/screenshots/iphone/02-thread.jpg" width="260"></td>
+    <td><img alt="Building a custom view" src="docs/images/screenshots/iphone/03-custom-views.jpg" width="260"></td>
+  </tr>
+  <tr>
+    <td><img alt="Picking a theme" src="docs/images/screenshots/iphone/04-themes.jpg" width="260"></td>
+    <td><img alt="Home Screen widgets" src="docs/images/screenshots/iphone/05-widgets.jpg" width="260"></td>
+    <td><img alt="Upvoting a post and writing a reply" src="docs/images/screenshots/iphone/06-vote-and-reply.jpg" width="260"></td>
+  </tr>
+  <tr>
+    <td><img alt="Bookmarks, one with a note" src="docs/images/screenshots/iphone/07-bookmarks-and-notes.jpg" width="260"></td>
+    <td><img alt="Setting up a notification for a view" src="docs/images/screenshots/iphone/08-notifications.jpg" width="260"></td>
+    <td><img alt="Advanced search filters" src="docs/images/screenshots/iphone/09-advanced-search.jpg" width="260"></td>
+  </tr>
+</table>
+
+### iPad
+
+<table>
+  <tr>
+    <td><img alt="The Top feed" src="docs/images/screenshots/ipad/01-first-launch.jpg" width="260"></td>
+    <td><img alt="A thread with a reply chain collapsed" src="docs/images/screenshots/ipad/02-thread.jpg" width="260"></td>
+    <td><img alt="Building a custom view" src="docs/images/screenshots/ipad/03-custom-views.jpg" width="260"></td>
+  </tr>
+  <tr>
+    <td><img alt="Picking a theme" src="docs/images/screenshots/ipad/04-themes.jpg" width="260"></td>
+    <td><img alt="Home Screen widgets" src="docs/images/screenshots/ipad/05-widgets.jpg" width="260"></td>
+    <td><img alt="Upvoting a post and writing a reply" src="docs/images/screenshots/ipad/06-vote-and-reply.jpg" width="260"></td>
+  </tr>
+  <tr>
+    <td><img alt="Bookmarks, one with a note" src="docs/images/screenshots/ipad/07-bookmarks-and-notes.jpg" width="260"></td>
+    <td><img alt="Setting up a notification for a view" src="docs/images/screenshots/ipad/08-notifications.jpg" width="260"></td>
+    <td><img alt="Advanced search filters" src="docs/images/screenshots/ipad/09-advanced-search.jpg" width="260"></td>
+  </tr>
+</table>
+
+### Apple Watch
+
+<table>
+  <tr>
+    <td><img alt="The Top feed on Apple Watch" src="docs/images/screenshots/watch/01-first-launch.png" width="200"></td>
+    <td><img alt="A thread on Apple Watch" src="docs/images/screenshots/watch/02-thread.png" width="200"></td>
+  </tr>
+</table>
+
+</details>
 
 ## Get in touch
 
