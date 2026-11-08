@@ -2,7 +2,7 @@
 
 A Hacker News client for iPhone, iPad, Mac, Apple Watch and Apple Vision Pro.
 
-<a href="https://apps.apple.com/app/id6824333739"><img alt="Download on the App Store" src="https://img.shields.io/badge/Download_on_the_App_Store-000000?style=for-the-badge&logo=appstore&logoColor=white"></a>
+<a href="https://apps.apple.com/app/id6824333739"><img alt="Download on the App Store" src="docs/images/app-store-badge.svg" height="48"></a>
 
 This repository is where Ostracon's bug reports, feedback and feature ideas are tracked. The app's source code isn't published here.
 
