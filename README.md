@@ -12,13 +12,7 @@ This repository is where Ostracon's bug reports, feedback and feature ideas are 
 
 ## What it does
 
-Ostracon reads Hacker News's Top, New, Best, Ask, Show and Jobs feeds, and lets you build your own views from the words, authors and sites you care about. Reorder or hide any view; the app opens on the first one.
-
-Threads show every reply indented under its parent. Tap a comment to collapse it and its replies, jump to the next top-level comment, or search within the thread. Search covers all of Hacker News, with filters for points, comment count, date and site, and any search can be saved as a view.
-
-Links open in the in-app browser, your default browser, or another browser you have installed. Sign in with your Hacker News account to see your upvoted posts and comments and to edit your profile. Signing in is optional; everything else works without an account.
-
-Home Screen and Lock Screen widgets show the latest posts from any view. The Apple Watch app runs on its own, and Siri and Shortcuts can open a view, get its posts or run a search.
+Read Hacker News's Top, New, Best, Ask, Show and Jobs feeds, or build your own views from the words, authors and sites you care about. Collapse any reply in a thread, search all of Hacker News with filters, and keep up with widgets, the Apple Watch app and Shortcuts. Signing in with your Hacker News account is optional.
 
 ## Get in touch
 
