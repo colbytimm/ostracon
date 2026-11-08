@@ -2,7 +2,48 @@
 
 A Hacker News client for iPhone, iPad, Mac, Apple Watch, Apple Vision Pro and Apple TV.
 
+<a href="https://apps.apple.com/app/id6824333739"><img alt="Download on the App Store" src="https://tools.applemarketingtools.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" height="54"></a>
+
 This repository is where Ostracon's bug reports, feedback and feature ideas are tracked. The app's source code isn't published here.
+
+<table>
+  <tr>
+    <td><img alt="The Top feed" src="docs/images/screenshots/01-first-launch.jpg" width="260"></td>
+    <td><img alt="A thread with a reply chain collapsed" src="docs/images/screenshots/02-thread.jpg" width="260"></td>
+    <td><img alt="Building a custom view" src="docs/images/screenshots/03-custom-views.jpg" width="260"></td>
+  </tr>
+  <tr>
+    <td><img alt="Picking a theme" src="docs/images/screenshots/04-themes.jpg" width="260"></td>
+    <td><img alt="Home Screen widgets" src="docs/images/screenshots/05-widgets.jpg" width="260"></td>
+    <td><img alt="Upvoting a post and writing a reply" src="docs/images/screenshots/06-vote-and-reply.jpg" width="260"></td>
+  </tr>
+  <tr>
+    <td><img alt="Bookmarks, one with a note" src="docs/images/screenshots/07-bookmarks-and-notes.jpg" width="260"></td>
+    <td><img alt="Setting up a notification for a view" src="docs/images/screenshots/08-notifications.jpg" width="260"></td>
+    <td><img alt="Advanced search filters" src="docs/images/screenshots/09-advanced-search.jpg" width="260"></td>
+  </tr>
+</table>
+
+## What it does
+
+Ostracon reads Hacker News's Top, New, Best, Ask, Show and Jobs feeds, and lets you build your own views from the words, authors and sites you care about. Reorder or hide any view; the app opens on the first one.
+
+Threads show every reply indented under its parent. Tap a comment to collapse it and its replies, jump to the next top-level comment, or search within the thread. Search covers all of Hacker News, with filters for points, comment count, date and site, and any search can be saved as a view.
+
+Links open in the in-app browser, your default browser, or another browser you have installed. Sign in with your Hacker News account to see your upvoted posts and comments and to edit your profile. Signing in is optional; everything else works without an account.
+
+Home Screen and Lock Screen widgets show the latest posts from any view. The Apple Watch app runs on its own, and Siri and Shortcuts can open a view, get its posts or run a search.
+
+## Ostracon Pro
+
+Reading, threads, search, custom views and widgets are free. Ostracon Pro is a one-time purchase, not a subscription, and adds:
+
+- Themes, app icons and appearance settings
+- Scheduled notifications with the latest posts from a view or a search
+- iCloud sync of your views and settings
+- Bookmarks, notes on posts and comments, and history
+- Following people and muting authors and sites
+- With a Hacker News account: posting, replying, voting, flagging, and editing or deleting your own posts and comments
 
 ## Get in touch
 
