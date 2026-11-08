@@ -1,6 +1,6 @@
 <h1><img alt="Ostracon" src="docs/images/header.png"></h1>
 
-A Hacker News client for iPhone, iPad, Mac, Apple Watch, Apple Vision Pro and Apple TV.
+A Hacker News client for iPhone, iPad, Mac, Apple Watch and Apple Vision Pro.
 
 <a href="https://apps.apple.com/app/id6824333739"><img alt="Download on the App Store" src="https://img.shields.io/badge/Download_on_the_App_Store-000000?style=for-the-badge&logo=appstore&logoColor=white"></a>
 
